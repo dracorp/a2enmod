@@ -1,0 +1,2 @@
+# visit: http://wiki.archlinux.org/index.php/Mod_wsgi
+LoadModule wsgi_module modules/mod_wsgi.so
